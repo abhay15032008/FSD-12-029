@@ -23,7 +23,7 @@ task.once("exit",()=>{
 });
 task.emit("greet", "Abhay Singh");
 task.emit("greet", "karishma srivastava");
-task.off("greet",working)
+task.off("greet",checkout)
 task.emit("greet","janhvi dwivedi");
 task.emit("exit","Abhay singh");
 
