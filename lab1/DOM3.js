@@ -6,5 +6,5 @@ button.on('click',(uname)=>{
 });
 button.emit("click","Rani");
 button.emit("click","Raju");
-button.emit("click","shikha");
+button.emit("click","shika");
 button.emit("click");
