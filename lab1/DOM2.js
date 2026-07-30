@@ -5,6 +5,6 @@ button.on('click',()=>{
     console.log("Task 1");
 });
 button.on("click",()=>{
-    console.log("Task 2")
+    console.log("Task 3")
 });
 button.emit("click");
