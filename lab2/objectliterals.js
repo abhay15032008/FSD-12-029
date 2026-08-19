@@ -123,7 +123,7 @@
 //         console.log('you had quit')
 //         break;
 //     }
-//     if(guess==random){
+  //   if(guess==random){
 //         console.log('you guess is true')
 //         break;
 //     } else{
